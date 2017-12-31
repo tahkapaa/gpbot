@@ -127,7 +127,7 @@ This kind of bot could do a lot more (and some of them do!), but there are a few
     * We need a cache that could be configurable for each endpoint. For some endpoints it might be good to have a cache that refreshes every 30s, and some would be ok when refreshing once a day.
 * Instead of typing the number for showing the runes, we could use discord reactions as a menu.
 * Servers for holding emojis should be configurable (now they are hardcoded).
-* Invite link for the help page
+* Multiple minor improvements to be able to release the bot to production.
 
 ## Legal
 GangplankBot is not endorsed by Riot Games and does not reflect the views or opinions of Riot Games or anyone officially involved in producing or managing League of Legends. League of Legends and Riot Games are trademarks or registered trademarks of Riot Games, Inc. League of Legends © Riot Games, Inc.
