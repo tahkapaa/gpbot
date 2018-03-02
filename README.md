@@ -16,6 +16,7 @@
 
 ## Demo bot
 * Runs with Riot API development key! Because of this, the bot will be offline for some time when this page is published. We will publish the real deal as soon as possible, so stay tuned!
+* UPDATE: Now running with production key, be welcome to try the bot out!
 * [Invite Gangplankbot](https://discordapp.com/api/oauth2/authorize?client_id=395219346030592001&permissions=2048&scope=bot) to your discord server
 * Or join [GangplankBot server](https://discord.gg/4JKhnSs) and try it out!
 
