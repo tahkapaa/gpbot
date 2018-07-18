@@ -1,4 +1,7 @@
 # GangplankBot - Riot Games API Challenge 2017
+
+## EDIT: The results for the challenge: https://developer.riotgames.com/api-challenge-december2017.html
+
 **YARRR!** This is a Discord bot for following League of Legends summoners game status. The main use case is: 
 1. Add your summoner to be followed 
 2. Join a game of League of Legends
